@@ -1,1 +1,1 @@
-# Multiclass-Image-Classification-using-CNN-and-transfer-learning
+In this project I had Utilized pre-trained CNN models (e.g.. VGG16, ResNet50) as feature extractors and Implemented transfer learning to fine-tune pre-trained models on a image dataset, Employed techniques to prevent overfitting (e.g., data augmentation, dropout) and Optimized hyperparameters for improved performance. I got 92% accuracy and 25% training time reduction.
